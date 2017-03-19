@@ -1,7 +1,5 @@
 #-----------------Console----------------------------------
 options(warn=-1)
-#prop<-function()
-#{
 k<-read.csv("rawdata.csv")
 #------------------------Cleans the Price Column--------------------
 vectorised<- function(vector) 
